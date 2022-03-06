@@ -1,4 +1,4 @@
-## **Hello there!**
+# **Hello there!**
 
 ### **Some stats:**
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperpucylo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
