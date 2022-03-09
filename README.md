@@ -25,11 +25,11 @@ Status | Project | Rank | Grade
 :lock: | ~~FdF~~ | ~~02~~ | ~~N/A~~
 :lock: | ~~fract-ol~~ | ~~02~~ | ~~N/A~~
 :white_check_mark: | [push_swap](https://github.com/kacperpucylo/push_swap) | 02 | **101/100**
-🛠️ | [pipex](https://github.com/kacperpucylo/pipex) | 02 | N/A
+✅ | [pipex](https://github.com/kacperpucylo/pipex) | 02 | 115/100
 :lock: | ~~minitalk~~ | ~~02~~ | ~~N/A~~
-:lock: | Exam Rank 03 | 03 | N/A
-:lock: | minishell | 03 | N/A
-:lock: | Philosophers | 03 | N/A
+🛠️ | Exam Rank 03 | 03 | N/A
+🛠️ | minishell | 03 | N/A
+🛠️ | [Philosophers](https://github.com/kacperpucylo/philosophers/tree/master/philo) | 03 | N/A
 :lock: | Exam Rank 04 | 04 | N/A
 :lock: | CPP piscine | 04 | N/A
 :lock: | miniRT | 04 | N/A
