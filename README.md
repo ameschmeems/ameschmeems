@@ -29,7 +29,7 @@ Status | Project | Rank | Grade
 :lock: | ~~minitalk~~ | ~~02~~ | ~~N/A~~
 🛠️ | Exam Rank 03 | 03 | N/A
 🛠️ | minishell | 03 | N/A
-🛠️ | [Philosophers](https://github.com/kacperpucylo/philosophers/tree/master/philo) | 03 | N/A
+✅ | [Philosophers](https://github.com/kacperpucylo/philosophers/tree/master/philo) | 03 | **100/100**
 :lock: | Exam Rank 04 | 04 | N/A
 :lock: | CPP piscine | 04 | N/A
 :lock: | miniRT | 04 | N/A
