@@ -27,7 +27,7 @@ Status | Project | Rank | Grade
 :white_check_mark: | [push_swap](https://github.com/kacperpucylo/push_swap) | 02 | **101/100**
 ✅ | [pipex](https://github.com/kacperpucylo/pipex) | 02 | **115/100**
 :lock: | ~~minitalk~~ | ~~02~~ | ~~N/A~~
-🛠️ | Exam Rank 03 | 03 | N/A
+✅ | Exam Rank 03 | 03 | **100/100**
 🛠️ | minishell | 03 | N/A
 ✅ | [Philosophers](https://github.com/kacperpucylo/philosophers/tree/master/philo) | 03 | **100/100**
 :lock: | Exam Rank 04 | 04 | N/A
