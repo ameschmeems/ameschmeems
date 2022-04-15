@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperpucylo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![kpucylo's 42 stats](https://badge42.vercel.app/api/v2/cl20pju7b001109jo2af3vfm8/stats?cursusId=42&coalitionId=149)](https://github.com/JaeSeoKim/badge42)
+
 ### **Main interests in coding:**
 * Data science, specifically bioinformatics.
 * Machine Learning
