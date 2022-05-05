@@ -33,10 +33,10 @@ Status | Project | Rank | Grade
 ✅ | [minishell](https://github.com/kacperpucylo/minishell) | 03 | **101/100**
 ✅ | [Philosophers](https://github.com/kacperpucylo/philosophers/tree/master/philo) | 03 | **100/100**
 ✅ | Exam Rank 04 | 04 | **100/100**
-🛠️ | [CPP piscine](https://github.com/kacperpucylo/cpp) | 04 | N/A
+✅ | [CPP piscine](https://github.com/kacperpucylo/cpp) | 04 | **100/100**
 :lock: | miniRT | 04 | N/A
 :lock: | cub3d | 04 | N/A
-:lock: | NetPractice | 04 | N/A
+🛠️ | NetPractice | 04 | N/A
 :lock: | Exam Rank 05 | 05 | N/A
 :lock: | ft_irc | 05 | N/A
 :lock: | webserv | 05 | N/A
