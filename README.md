@@ -35,8 +35,8 @@ Status | Project | Rank | Grade
 ✅ | Exam Rank 04 | 04 | **100/100**
 ✅ | [CPP piscine](https://github.com/kacperpucylo/cpp) | 04 | **100/100**
 :lock: | miniRT | 04 | N/A
-:lock: | cub3d | 04 | N/A
-🛠️ | NetPractice | 04 | N/A
+🛠️ | cub3d | 04 | N/A
+✅ | NetPractice | 04 | **100/100**
 :lock: | Exam Rank 05 | 05 | N/A
 :lock: | ft_irc | 05 | N/A
 :lock: | webserv | 05 | N/A
