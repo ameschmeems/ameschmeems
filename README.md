@@ -34,13 +34,13 @@ Status | Project | Rank | Grade
 ✅ | [Philosophers](https://github.com/kacperpucylo/philosophers/tree/master/philo) | 03 | **100/100**
 ✅ | Exam Rank 04 | 04 | **100/100**
 ✅ | [CPP piscine](https://github.com/kacperpucylo/cpp) | 04 | **100/100**
-:lock: | miniRT | 04 | N/A
-🛠️ | cub3d | 04 | N/A
+:lock: | ~~miniRT~~ | ~~04~~ | ~~N/A~~
+✅ | [cub3d](https://github.com/kacperpucylo/cub3d) | 04 | **110/100**
 ✅ | NetPractice | 04 | **100/100**
-:lock: | Exam Rank 05 | 05 | N/A
+🛠️ | Exam Rank 05 | 05 | N/A
 :lock: | ft_irc | 05 | N/A
 :lock: | webserv | 05 | N/A
-:lock: | ft_containers | 05 | N/A
+🛠️ | ft_containers | 05 | N/A
 :lock: | Inception | 05 | N/A
 :lock: | Exam Rank 06 | 06 | N/A
 :lock: | ft_transcendence | 06 | N/A
