@@ -7,11 +7,6 @@
 
 [![kpucylo's 42 stats](https://badge42.vercel.app/api/v2/cl20pju7b001109jo2af3vfm8/stats?cursusId=21&coalitionId=149)](https://github.com/JaeSeoKim/badge42)
 
-### **Main interests in coding:**
-* Data science, specifically bioinformatics.
-* Machine Learning
-* Game development
-
 #### **Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/kacper-pucylo-97b2b2230/)
 
@@ -44,12 +39,3 @@ Status | Project | Rank | Grade
 :lock: | Inception | 05 | N/A
 :lock: | Exam Rank 06 | 06 | N/A
 :lock: | ft_transcendence | 06 | N/A
-
-### **Languages and tools:**
-* git/github
-* C
-* python
-* Jupyter Notebooks
-* VS Code
-* Unix
-* Godot
