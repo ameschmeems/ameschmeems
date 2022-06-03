@@ -33,9 +33,9 @@ Status | Project | Rank | Grade
 ✅ | [cub3d](https://github.com/kacperpucylo/cub3d) | 04 | **110/100**
 ✅ | NetPractice | 04 | **100/100**
 🛠️ | Exam Rank 05 | 05 | N/A
-:lock: | ft_irc | 05 | N/A
-:lock: | webserv | 05 | N/A
+:lock: | ~~ft_irc~~ | ~~05~~ | ~~N/A~~
+🛠️ | webserv | 05 | N/A
 🛠️ | [ft_containers](https://github.com/kacperpucylo/ft_containers)| 05 | N/A
-:lock: | Inception | 05 | N/A
+🛠️ | Inception | 05 | N/A
 :lock: | Exam Rank 06 | 06 | N/A
 :lock: | ft_transcendence | 06 | N/A
