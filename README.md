@@ -32,7 +32,7 @@ Status | Project | Rank | Grade
 :lock: | ~~miniRT~~ | ~~04~~ | ~~N/A~~
 ✅ | [cub3d](https://github.com/kacperpucylo/cub3d) | 04 | **110/100**
 ✅ | NetPractice | 04 | **100/100**
-🛠️ | Exam Rank 05 | 05 | N/A
+✅ | Exam Rank 05 | 05 | **100/100**
 :lock: | ~~ft_irc~~ | ~~05~~ | ~~N/A~~
 🛠️ | webserv | 05 | N/A
 🛠️ | [ft_containers](https://github.com/kacperpucylo/ft_containers)| 05 | N/A
