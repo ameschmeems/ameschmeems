@@ -38,4 +38,4 @@ Status | Project | Rank | Grade
 ✅ | [ft_containers](https://github.com/kacperpucylo/ft_containers)| 05 | **125/100**
 ✅ | [Inception](https://github.com/kacperpucylo/inception) | 05 | **100/100**
 :white_check_mark: | [Exam Rank 06](https://github.com/kacperpucylo/exam_rank_06) | 06 | **100/100**
-🛠️ | ft_transcendence | 06 | N/A
+🛠️ | [ft_transcendence](https://github.com/kacperpucylo/ft_transcendence) | 06 | N/A
