@@ -5,9 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameschmeems&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/kacper-pucylo-97b2b2230/)
-
 ### **42 core curriculum progress:**
 Status | Project | Rank | Grade
 ------ | ------- | ---- | -----
